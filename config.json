@@ -1,0 +1,19 @@
+{
+  "token": "Zensiert",
+  "commands": [
+    {
+      "name" :"about", 
+      "reply":"Test Bot by Raphael Peters, this one does thigs"
+    },
+    {
+      "name" :"help",
+      "reply":"Type something in"
+    }
+  ],
+  "keywords": [
+    {
+      "word" :"platz",
+      "reply": "Hardy: Hier sitze ich!"
+    }
+  ]
+}

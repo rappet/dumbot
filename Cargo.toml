@@ -1,0 +1,9 @@
+[package]
+name = "dumbot"
+version = "0.1.0"
+authors = ["rappet"]
+
+[dependencies]
+telegram-bot = "0.4"
+getopts = "0.2"
+rustc-serialize = "0.3"
